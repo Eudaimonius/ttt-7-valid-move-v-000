@@ -1,6 +1,5 @@
 # code your #valid_move? method here
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-index = 0
+
 
 def position_taken? (board, index)
     if board [index]==" "
